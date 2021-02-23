@@ -6,7 +6,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 Gem::Specification.new do |spec|
   spec.platform = Gem::Platform::RUBY
   spec.name = 'wkhtmltopdf-aml2-binary'
-  spec.version = '0.12.6.0'
+  spec.version = '0.12.6.1'
   spec.authors = ['Sadat97']
   spec.email = ['man@riskline.com']
 
